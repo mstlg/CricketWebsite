@@ -1,0 +1,26 @@
+
+@import url('https://fonts.googleapis.com/css?family=Anton');
+html{
+	
+	background-image: url("BasinReserve.jpg");
+	background-color: white;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100%;
+	width: 100%;
+	
+}
+
+
+
+h1{
+font-family: 'Anton';
+}
+
+.sidebar {
+    position: fixed;
+    width: 150px;
+    top:60px; right:0; bottom:0;
+    background-color: white;
+    opacity: 0.7;
+}
